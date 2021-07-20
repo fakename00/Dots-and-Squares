@@ -387,6 +387,7 @@ def move_makes_box(id1, id2):
 
     return is_box
 
+# Hello world
 
 def check_move_made_box(is_user, id1, id2):
     is_box = False
